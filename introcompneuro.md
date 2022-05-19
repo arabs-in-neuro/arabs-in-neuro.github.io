@@ -1,9 +1,8 @@
 ---
 layout: article
-title: Intro to Comp Neuro
+title: Introduction to Computational Neuroscience
 ---
 
-# Introduction to Computational Neuroscience
 
 **Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
 
