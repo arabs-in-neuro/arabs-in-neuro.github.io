@@ -64,7 +64,7 @@ repository_tree: master
 paths:
   root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
-  course: /introcompneuro.html
+  course: /introcompneuro.md
   rss     : # "/feed.xml" (default)
 
 
