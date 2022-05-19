@@ -3,6 +3,7 @@ layout: article
 title: Introduction to Computational Neuroscience
 ---
 
+**Applications are now closed. Thanks to everyone who applied. We will announce the participants soon**
 
 **Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
 
@@ -63,3 +64,6 @@ These days will include a lecture to be watched offline before as well as tutori
 |    0:00-2:00   |    Tutorials   |
 |    2:00-3:00     |    Break                  |
 |    3:00-5:00     |    Tutorials        |
+
+# Proudly supported by
+![ibro](assets/images/ibro.jpg)
