@@ -13,14 +13,14 @@ title: Introduction to Computational Neuroscience
 
 # Course outline
 
-* Week 1
+#### Week 1
 * Mon, June 13: Python Day 1
 * Tue, June 14: Python Day 2
 * Wed, June 15: Basics of Neurosciences
 * Thu, June 16: Neural Data
 * Fri, June 17: Linear Algebra Day 1 (Vectors)
 
-* Week 2
+#### Week 2
 * Mon, June 20: Linear Algebra Day 2 (Matrices)
 * Tue, June 21: Linear Algebra Day 3 (Eigen Decomposition)
 * Wed, June 22: Calculus (Differentiation and Integration)
