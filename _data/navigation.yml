@@ -1,6 +1,17 @@
 header:
   - titles:
       # @start locale config
+      en: &EN       About
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+
+      # @end locale config
+    url: /about.html
+
+  - titles:
+      # @start locale config
       en      : &EN       Summer School
       en-GB   : *EN
       en-US   : *EN
@@ -8,15 +19,5 @@ header:
       en-AU   : *EN
 
       # @end locale config
-    url: /introcompneuro.md
+    url: /introcompneuro.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-
-      # @end locale config
-    url: /about.html
