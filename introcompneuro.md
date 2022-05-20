@@ -12,9 +12,9 @@ title: Introduction to Computational Neuroscience
 * [Samar ElSheikh](https://twitter.com/SamarElsheikh) (Centre for Addiction and Mental Health)
 * [Rawan AlSubaie](https://twitter.com/rawryy) (King Fahad Medical City/UCL)
 * [Moataz Assem](https://twitter.com/moatazassem) (University of Cambridge)
-* [Yahia H. Ali](https://twitter.com/_yahiaali) (Emory University and Georgia Tech)
+* [Yahia H. Ali](https://yahiaali.com/) (Emory University and Georgia Tech)
 * [Sarah Hosni](https://twitter.com/sarahihosni) (University of Rhode Island and Old Dominion University)
-* [Mohamed Abdelhack](https://twitter.com/mabdelhack) (Krembil Centre for Neuroinformatics)
+* [Mohamed Abdelhack](https://mabdelhack.github.io/) (Krembil Centre for Neuroinformatics)
 * [Ramzi Halabi](https://www.linkedin.com/in/ramzihalabiphd/) (Krembil Centre for Neuroinformatics)
 
 # Course materials
