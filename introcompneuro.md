@@ -7,6 +7,16 @@ title: Introduction to Computational Neuroscience
 
 **Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
 
+# Instructors
+
+* [Samar ElSheikh](https://twitter.com/SamarElsheikh) (Centre for Addiction and Mental Health)
+* [Rawan AlSubaie](https://twitter.com/rawryy) (King Fahad Medical City/UCL)
+* [Moataz Assem](https://twitter.com/moatazassem) (University of Cambridge)
+* [Yahia H. Ali](https://twitter.com/_yahiaali) (Emory University and Georgia Tech)
+* [Sarah Hosni](https://twitter.com/sarahihosni) (University of Rhode Island and Old Dominion University)
+* [Mohamed Abdelhack](https://twitter.com/mabdelhack) (Krembil Centre for Neuroinformatics)
+* [Ramzi Halabi](https://www.linkedin.com/in/ramzihalabiphd/) (Krembil Centre for Neuroinformatics)
+
 # Course materials
 
 - [Welcome Video (TBA)](#)
