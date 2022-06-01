@@ -42,6 +42,8 @@ title: Introduction to Computational Neuroscience
 ----
 
 # Daily schedule
+<iframe src="https://calendar.google.com/calendar/embed?src=5nvg7s13rchqsi8g0nvo5tgbj0%40group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 0:00 time here corresponds to the starting time of the day. This time is depending on your location is as follows:
 * (UTC +0) Morocco and Mauritania: 4:00 PM
 * (UTC +1) Algeria: 5:00 PM
