@@ -80,3 +80,6 @@ These days will include a lecture to be watched offline before as well as tutori
 
 # Proudly supported by
 ![ibro](assets/images/ibro.jpg)
+
+#Partners
+|[egyptscholars](assets/images/egyptscholars.png)
