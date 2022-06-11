@@ -18,7 +18,7 @@ title: Introduction to Computational Neuroscience
 
 # Course materials
 
-- [Welcome Video (TBA)](#)
+- [Welcome Video](https://youtu.be/o60MAFIi44M)
 - [**Tutorials**: videos, notebooks, and slides (TBA)](#)
 
 # Course outline
