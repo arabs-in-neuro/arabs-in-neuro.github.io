@@ -47,7 +47,7 @@ To avoid confusion, you can import the above calendar to your own Google calenda
 
 0:00 time here corresponds to the starting time of the day. This time is depending on your location is as follows:
 * (UTC +0) Morocco and Mauritania: 4:00 PM
-* (UTC +1) Algeria: 5:00 PM
+* (UTC +1) Algeria, Tunisia: 5:00 PM
 * (UTC +2) Libya, Sudan and Egypt: 6:00 PM
 * (UTC +3) Palestine, Lebanon, Syria, Saudi Arabia: 7:00 PM
 * (UTC +4) UAE, Kuwait, Oman, Bahrain, Qatar: 8:00 PM
