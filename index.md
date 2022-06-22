@@ -7,7 +7,7 @@ layout: article
 ![banner](assets/images/banner.png)
 
 
-#### **Applications for our [Introduction to Computational Neuroscience Summer School](introcompneuro.html) are now closed**
+#### **Our [Introduction to Computational Neuroscience Summer School](introcompneuro.html) is currently underway.**
 
 
 

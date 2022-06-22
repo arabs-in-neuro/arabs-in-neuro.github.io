@@ -2,7 +2,7 @@
 layout: article
 title: Introduction to Computational Neuroscience
 ---
-**Applications for 2022 are now closed. Thanks to everyone who applied. We will announce the participants soon**
+**School is currently underway. We will post materials here by the end of the course. Stay Tuned!**
 
 **Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
 
