@@ -2,7 +2,7 @@
 layout: article
 title: Introduction to Computational Neuroscience
 ---
-**The summer school has concluded for 2022. Thanks to all participants and applicants. The course materials can be found here**
+**The summer school has concluded for 2022. Thanks to all participants and applicants. The course materials can be found [here](#course-materials)**
 
 **Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
 
