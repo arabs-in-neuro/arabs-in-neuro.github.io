@@ -21,3 +21,14 @@ header:
       # @end locale config
     url: /introcompneuro.html
 
+  - titles:
+      # @start locale config
+      en: &EN       Contact Us
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+
+      # @end locale config
+      url: /contact.html
+
