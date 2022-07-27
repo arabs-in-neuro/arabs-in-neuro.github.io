@@ -15,9 +15,9 @@ nav: true
 
   <div class="publications">
     <script>
-    if (window.location.href.length > 40) {
+    if (window.location.href.length > 47) {
     document.getElementById("thanks").innerHTML =
-    "<span style='color: red;'>Thank you for contacting us. I will respond as soon as possible!</span>";
+    "<span style='color: red;'>Thank you for contacting us. We will respond as soon as possible!</span>";
     }
     </script>
     <script type="text/javascript">var submitted=false;</script>
