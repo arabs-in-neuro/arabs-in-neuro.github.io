@@ -28,21 +28,25 @@ nav: true
           <div class="grid">
           <div class="cell cell--2"><label for="name">Name*</label></div>
           <div class="cell cell--auto"><input type="text" size="50" class="form-control" id="name" placeholder="Name*"  name="entry.435430897" required></div>
+          <br>
           </div>
 
           <div class="grid">
           <div class="cell cell--2"><label for="email">Email Address*</label></div>
           <div class="cell cell--auto"><input type="email" size="50"  class="form-control" id="email" placeholder="Email address*" name="entry.86580912" required></div>
+          <br>
           </div>
 
           <div class="grid">
           <div class="cell cell--2"><label for="subject">Subject*</label></div>
           <div class="cell cell--auto"><input type="text" size="50" class="form-control" id="subject" placeholder="Subject*" name="entry.1456137451"></div>
+          <br>
           </div>
 
           <div class="grid">
           <div class="cell cell--2"><label for="message">Message*</label></div>
           <div class="cell cell--auto"><textarea rows="5" cols="50" class="form-control" id="message" placeholder="Message*" name="entry.1141301720" required></textarea></div>
+          <br>
           </div>
 
           <button class="button button--primary button--pill" type="submit" role="button">Send</button>
