@@ -42,7 +42,7 @@ nav: true
 
           <div class="grid">
           <div class="cell cell--2"><label for="message">Message*</label></div>
-          <div class="cell cell--auto"><textarea rows="5" size="50" class="form-control" id="message" placeholder="Message*" name="entry.1141301720" required></textarea></div>
+          <div class="cell cell--auto"><textarea rows="5" cols="50" class="form-control" id="message" placeholder="Message*" name="entry.1141301720" required></textarea></div>
           </div>
 
           <button class="button button--primary button--pill" type="submit" role="button">Send</button>
