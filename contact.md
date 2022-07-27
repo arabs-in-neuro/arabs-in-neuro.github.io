@@ -7,7 +7,6 @@ nav: true
 
 <html>
   <head>
-  <link rel=”stylesheet” href=”https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css”rel=”nofollow” integrity=”sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I” crossorigin=”anonymous”>
 
 
   </head>
@@ -26,9 +25,9 @@ nav: true
     onload="if(submitted) {window.location='?submitted=true';}"></iframe>
 
     <form id="contactform" action="https://docs.google.com/forms/d/e/1FAIpQLSdF6btSqvrYiskbvssC3O74JIVhe-hpbyALAcNN9sf2eZRjCA/formResponse" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
-          <div class="form-group">
-          <label for="name">Name*</label>
-          <input type="text" class="form-control" id="name" placeholder="Name*"  name="entry.435430897" required>
+          <div class="grid">
+          <div class="cell cell--2"><label for="name">Name*</label></div>
+          <div class="cell cell--auto"><input type="text" class="form-control" id="name" placeholder="Name*"  name="entry.435430897" required></div>
           </div>
 
           <div class="form-group">
@@ -46,12 +45,10 @@ nav: true
           <textarea rows="5" class="form-control" id="message" placeholder="Message*" name="entry.1141301720" required></textarea>
           </div>
 
-          <button class="btn btn-outline-primary btn-sm" type="submit" role="button">Send</button>
+          <button class="button button--outline-primary" type="submit" role="button">Send</button>
     </form>
 
   </div>
-  <script src=”https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js” integrity=”sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo” crossorigin=”anonymous”></script>
 
-  <script src=”https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js” integrity=”sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/” crossorigin=”anonymous”></script>
   </body>
 </html>
