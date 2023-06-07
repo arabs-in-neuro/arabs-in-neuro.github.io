@@ -7,7 +7,7 @@ layout: article
 ![banner](assets/images/banner.png)
 
 
-#### **Our [Introduction to Computational Neuroscience Summer School](introcompneuro.html) is over for 2022. You can find the materials in the course page.**
+#### **Applications for [Introduction to Computational Neuroscience Summer School 2023](introcompneuro.html) is now open. Apply [HERE](https://forms.gle/6oTbfoD7BbVcPZTb6)!**
 
 
 

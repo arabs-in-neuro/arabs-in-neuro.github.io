@@ -17,9 +17,12 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-
+  submenu:
+    - title   : 2022
       # @end locale config
-    url: /introcompneuro.html
+      url     : /introcompneuro.html
+    - title   : 2023
+      url     : /introcompneuro23.html
 
   - titles:
       # @start locale config
