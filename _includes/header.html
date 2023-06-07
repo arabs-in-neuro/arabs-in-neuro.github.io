@@ -23,6 +23,13 @@
       <nav class="navigation">
         <ul>
           {%- for _item in site.data.navigation.header -%}
+            {% if item.submenu %}
+              <ul>
+                {% for subitem in item.submenu %}
+                  <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
             {%- include snippets/get-nav-url.html path=_item.url -%}
             {%- assign _nav_url = __return -%}
             {%- include snippets/get-nav-url.html path=page.url -%}
