@@ -5,11 +5,10 @@ header:
     url: /about.html
 
   - title: Summer School
-    url: /introcompneuro23.html
+    url: /introcompneuro_primer.html
     id: submenu-button
-    submenu:
+    children:
       - title   : 2022
-      # @end locale config
         url     : /introcompneuro.html
       - title   : 2023
         url     : /introcompneuro23.html
@@ -18,4 +17,15 @@ header:
 
       # @end locale config
     url: /contact.html
+
+docs-en:
+  - title: Summer School
+
+    id: submenu-button
+    children:
+      - title   : 2023
+        url     : /introcompneuro23.html
+      - title   : 2022
+        url     : /introcompneuro.html
+
 

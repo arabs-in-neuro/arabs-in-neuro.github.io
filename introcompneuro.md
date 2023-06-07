@@ -1,5 +1,7 @@
 ---
 layout: article
+sidebar:
+  nav: docs-en
 title: Introduction to Computational Neuroscience
 ---
 **The summer school has concluded for 2022. Thanks to all participants and applicants. The course materials can be found [here](#course-materials)**

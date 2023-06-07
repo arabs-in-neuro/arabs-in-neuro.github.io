@@ -1,8 +1,13 @@
 ---
 layout: article
+sidebar:
+  nav: docs-en
 title: Introduction to Computational Neuroscience
 ---
 ## **[APPLY HERE!](https://forms.gle/6oTbfoD7BbVcPZTb6)**
+
+Deadline for applications is **21-June-2023**.
+
 For 2022 version page, [click here](/introcompneuro.html)
 
 **Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
