@@ -1,36 +1,20 @@
 header:
-  - titles:
-      # @start locale config
-      en: &EN       About
-      en-GB: *EN
-      en-US: *EN
-      en-CA: *EN
-      en-AU: *EN
+  - title: About
 
       # @end locale config
     url: /about.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Summer School
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-  submenu:
-    - title   : 2022
+  - title: Summer School
+    url: /introcompneuro23.html
+    id: submenu-button
+    submenu:
+      - title   : 2022
       # @end locale config
-      url     : /introcompneuro.html
-    - title   : 2023
-      url     : /introcompneuro23.html
+        url     : /introcompneuro.html
+      - title   : 2023
+        url     : /introcompneuro23.html
 
-  - titles:
-      # @start locale config
-      en: &EN       Contact Us
-      en-GB: *EN
-      en-US: *EN
-      en-CA: *EN
-      en-AU: *EN
+  - title: Contact Us
 
       # @end locale config
     url: /contact.html

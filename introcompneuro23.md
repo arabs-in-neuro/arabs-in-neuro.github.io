@@ -2,7 +2,8 @@
 layout: article
 title: Introduction to Computational Neuroscience
 ---
-**[APPLY HERE!](https://forms.gle/6oTbfoD7BbVcPZTb6)**
+## **[APPLY HERE!](https://forms.gle/6oTbfoD7BbVcPZTb6)**
+For 2022 version page, [click here](/introcompneuro.html)
 
 **Objectives**: Introduce tools that are essential for starting work in computational neuroscience. It includes pre-requisite knowledge such as programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
 
@@ -22,6 +23,7 @@ We accept Arabic-speaking participants from all over the world
 
 # Course materials
 These materials are for the 2022 course. They will be upated for the 2023 course!
+
 [Welcome Video](https://youtu.be/o60MAFIi44M)
 
 | Topic  | Tutorial | Video | Slides |
@@ -45,16 +47,16 @@ These materials are for the 2022 course. They will be upated for the 2023 course
 #### Week 1
 * Mon, July 31: Python Day 1
 * Tue, August 1: Python Day 2
-* Wed, August 2: Basics of Neurosciences
-* Thu, August 3: Neural Data Day 1
-* Fri, August 4: Neural Data Day 1
+* Wed, August 2: Basics of Neurosciences Day 1
+* Thu, August 3: Basics of Neurosciences Day 2
+* Fri, August 4: Neural Data
 
 #### Week 2
 * Mon, August 7: Linear Algebra Day 1 (Vectors)
 * Tue, August 8: Linear Algebra Day 2 (Matrices)
 * Wed, August 9: Linear Algebra Day 3 (Eigen Values and Eigen Vectors)
 * Thu, August 10: Calculus Day 1 (Differentiation and Integration)
-* Fri, August 11: Calculus Da2 2 (Differential Equations)
+* Fri, August 11: Calculus Day 2 (Differential Equations)
 
 #### Week 3
 * Mon, August 14: Statistics Day 1 (Probability)

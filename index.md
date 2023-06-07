@@ -7,7 +7,7 @@ layout: article
 ![banner](assets/images/banner.png)
 
 
-#### **Applications for [Introduction to Computational Neuroscience Summer School 2023](introcompneuro.html) is now open. Apply [HERE](https://forms.gle/6oTbfoD7BbVcPZTb6)!**
+#### **Applications for [Introduction to Computational Neuroscience Summer School 2023](introcompneuro23.html) is now open. Apply [HERE](https://forms.gle/6oTbfoD7BbVcPZTb6)!**
 
 
 
