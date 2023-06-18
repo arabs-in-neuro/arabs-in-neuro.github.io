@@ -80,11 +80,11 @@ These materials are for the 2022 course. They will be upated for the 2023 course
 [//]: # (To avoid confusion, you can import the above calendar to your own Google calendar. It currently shows the times according to Eastern time but if you import it, it will convert to your local timezone.)
 
 0:00 time here corresponds to the starting time of the day. This time is depending on your location is as follows:
-* (UTC +0) Morocco and Mauritania: 4:00 PM
-* (UTC +1) Algeria, Tunisia: 5:00 PM
-* (UTC +2) Libya, Sudan and Egypt: 6:00 PM
-* (UTC +3) Palestine, Lebanon, Syria, Saudi Arabia: 7:00 PM
-* (UTC +4) UAE, Kuwait, Oman, Bahrain, Qatar: 8:00 PM
+* (UTC +0) Morocco and Mauritania: 3:00 PM
+* (UTC +1) Algeria, Tunisia: 4:00 PM
+* (UTC +2) Libya and Sudan: 5:00 PM
+* (UTC +3) Palestine, Lebanon, Syria, Saudi Arabia, Iraq and Egypt: 6:00 PM
+* (UTC +4) UAE, Kuwait, Oman, Bahrain, Qatar: 7:00 PM
 
 ## Python Days
 They are whole workshop days. The day in total is composed of 5 hours of tutorials including a 1 hour break in the middle.
