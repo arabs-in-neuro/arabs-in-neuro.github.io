@@ -4,7 +4,7 @@ sidebar:
   nav: docs-en
 title: Introduction to Computational Neuroscience
 ---
-## **[APPLY HERE!](https://forms.gle/6oTbfoD7BbVcPZTb6)**
+## **Applications have closed for this year. Thanks to all those who applied**
 
 Deadline for applications is **21-June-2023**.
 
