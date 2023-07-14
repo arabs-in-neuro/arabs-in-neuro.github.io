@@ -74,10 +74,9 @@ These materials are for the 2022 course. They will be upated for the 2023 course
 
 # Daily schedule
 
-[//]: # (<iframe src="https://calendar.google.com/calendar/embed?src=5nvg7s13rchqsi8g0nvo5tgbj0%40group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>)
+<iframe src="https://calendar.google.com/calendar/embed?src=c_7d00e90184e76eb7c24f5c388a16eb7238139bcf67ece8d347841fbf18b2e695%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-[//]: # ()
-[//]: # (To avoid confusion, you can import the above calendar to your own Google calendar. It currently shows the times according to Eastern time but if you import it, it will convert to your local timezone.)
+To avoid confusion, you can import the above calendar to your own Google calendar. It currently shows the times according to Eastern time but if you import it, it will convert to your local timezone.
 
 0:00 time here corresponds to the starting time of the day. This time is depending on your location is as follows:
 * (UTC +0) Morocco and Mauritania: 3:00 PM
