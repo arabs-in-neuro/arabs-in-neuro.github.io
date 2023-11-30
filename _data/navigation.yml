@@ -12,7 +12,9 @@ header:
         url     : /introcompneuro.html
       - title   : 2023
         url     : /introcompneuro23.html
-
+  - title: Volunteer
+    url: /volunteer.html
+    
   - title: Contact Us
 
       # @end locale config

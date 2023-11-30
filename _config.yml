@@ -67,6 +67,7 @@ paths:
   home    : # home layout url, "/" (default)
   course: /introcompneuro.html
   contact: /contact.html
+  volunteer: /volunteer.html
   rss     : # "/feed.xml" (default)
 
 
