@@ -49,13 +49,13 @@ nav: true
           <br><br>
           </div>
 
-          <button class="button button--primary button--pill" type="submit" role="button">Send</button>
-
           <div class="grid">
           <div class="cell cell--2"><label for="capthca">CAPTCHA Math: 2+3=*</label></div>
           <div class="cell cell--auto"><input type="text" size="50" class="form-control" id="name" placeholder="CAPTHCA*"  name="entry.549155994" required></div>
           <br><br>
           </div>
+
+          <button class="button button--primary button--pill" type="submit" role="button">Send</button>
     </form>
 
   </div>
