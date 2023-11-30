@@ -18,7 +18,7 @@ the volunteer will be responsible for developing a grant database over a period 
 - Having a good command of English is a plus.
 
 
-### Workspace manager:
+### Workspace manager
 #### Job Description:
 This volunteer will be responsible for managing to workspace for the organization and writing scripts to automate many of the processes such as creating dashboards for student databases, application evaluation tools, and automated emailing apps.
 #### Responsibilities:
