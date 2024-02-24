@@ -20,7 +20,7 @@ The Content team focuses on creating content that can be used by marketing and c
 - Research recent scientific articles in neuroscience and create news pieces about them
 - Write and edit reports of any activity happening in the community
 - Give feedback on written pieces by other content team members
--
+
 #### Core competencies:
 - Qualification or interest in neuroscience education
 - Excellent English and Arabic language skills both in a verbal and written form
